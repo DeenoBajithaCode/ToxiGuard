@@ -7,12 +7,12 @@ This project detects toxic or harmful language in text using a fine-tuned BERT m
 - Detects toxic language in user input
 - Uses a fine-tuned BERT model for classification
 - Provides explanations for predictions using SHAP or LIME
-- Flask API for easy testing and integration
+- Django API for easy testing and integration
 
 ## Requirements
 
 - Python 3.8+
-- Flask
+- Django
 - Transformers
 - scikit-learn
 - shap or lime
